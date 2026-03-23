@@ -14,5 +14,7 @@ namespace G_Net_34_ADV02
             Console.WriteLine(string.Join("\n",list));
             Console.WriteLine();
         }
+        
+        
     }
 }
